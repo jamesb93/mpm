@@ -1,0 +1,1 @@
+If you want to use mpm you have to have a `mpm.config` in the project you want to interact with
